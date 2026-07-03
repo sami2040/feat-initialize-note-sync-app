@@ -5,3 +5,4 @@ feat: implement note creation
 feat: add note editing functionality
 feat: implement cloud sync service
 fix: handle sync conflicts correctly
+refactor: improve sync queue management
