@@ -2,3 +2,4 @@
 chore: set up project configuration
 docs: add README with setup instructions
 feat: implement note creation
+feat: add note editing functionality
