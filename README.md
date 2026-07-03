@@ -7,3 +7,4 @@ feat: implement cloud sync service
 fix: handle sync conflicts correctly
 refactor: improve sync queue management
 test: add note synchronization tests
+chore: update development dependencies
